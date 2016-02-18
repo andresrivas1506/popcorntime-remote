@@ -397,5 +397,6 @@
       <script src="assets/js/jquery.min.js"></script>
       <script src="assets/js/bootstrap.min.js"></script>
       <script src="assets/js/remote.js"></script>
+      <?php include_once("analyticstracking.php") ?>
     </body>
   </html>
